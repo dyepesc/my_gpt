@@ -7,7 +7,7 @@ textarea.addEventListener('input', function() {
   this.style.height = (this.scrollHeight) + 'px';
 });
 //******************************************************************************** */
-
+/*
 document.getElementById('sendAPI').addEventListener('click', function() {
   // Mostrar el textarea
   document.getElementById('apiResponse').style.display = 'block';
@@ -17,3 +17,4 @@ document.getElementById('sendAPI').addEventListener('click', function() {
   const apiResponse = "Esta es la respuesta de la API.";
   document.getElementById('apiResponse').value = apiResponse;
 });
+*/
